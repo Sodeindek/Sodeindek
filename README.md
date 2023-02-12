@@ -1,4 +1,4 @@
-### Hi there, I'm Sodeinde Kehindde 👋
+### Hi there, I'm Sodeinde Kehinde 👋
 
 - 🔭 I’m currently working on Exploratory Data Analytics
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
