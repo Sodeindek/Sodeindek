@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Statistics
 - 💬 Ask me about Data Science
-- 📫 How to reach me: twittwer: sodeinde_| Github: Sodeindek
+- 📫 How to reach me: twittwer: sodeinde_ | Github: Sodeindek
 - 😄 Pronouns: He
