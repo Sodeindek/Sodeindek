@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Sodeindek/Sodeindek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I'm Sodeinde Kehindde 👋
 
 - 🔭 I’m currently working on Exploratory Data Analytics
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
@@ -12,5 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Science
 - 📫 How to reach me: twittwer: sodeinde_| Github: Sodeindek
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
--->
